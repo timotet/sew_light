@@ -74,3 +74,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.cproject
+*.cproject
+*.launch
+Debug/main.pp
+*.pp
