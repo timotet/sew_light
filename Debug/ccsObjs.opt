@@ -1,1 +1,0 @@
-"./main.obj" "../lnk_msp430g2202.cmd" -l"libc.a" 
